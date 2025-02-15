@@ -1,2 +1,2 @@
 marginguide:2.11
-explorer:2
+explorer:1
