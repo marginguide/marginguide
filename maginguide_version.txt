@@ -1,2 +1,2 @@
-marginguide:2.19
+marginguide:2.2
 explorer:4
